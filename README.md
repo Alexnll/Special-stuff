@@ -6,3 +6,4 @@
 5. Apple_logo_design.pde - draw apple logo design in Processing. Should be used with 
 6. newsh.sh - touch new .sh file with some operation
 7. tf_trial.py - something about tensorflow, already out of date
+8. simple_rnn.py - simply implementation of rnn based on numpy
